@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\mustapha\desktop\exercicesbatelier2\main.cpp
+	<iostream>
+
+1647802458 source:c:\users\mustapha\desktop\exercicesbatelier2\src\client.cpp
+	"Client.h"
+	<assert.h>
+
+1647802448 c:\users\mustapha\desktop\exercicesbatelier2\include\client.h
+	<iostream>
+	"Compte.h"
+	<string>
+	<vector>
+
+1647802990 c:\users\mustapha\desktop\exercicesbatelier2\include\compte.h
+	<iostream>
+	"Operation.h"
+	"Client.h"
+	"Devise.h"
+	<vector>
+
+1647802305 c:\users\mustapha\desktop\exercicesbatelier2\include\operation.h
+	<iostream>
+	"Devise.h"
+
+1647785850 c:\users\mustapha\desktop\exercicesbatelier2\include\devise.h
+	<iostream>
+
+1647802784 source:c:\users\mustapha\desktop\exercicesbatelier2\src\app_banque.cpp
+	"App_Banque.h"
+	<assert.h>
+
+1647802810 c:\users\mustapha\desktop\exercicesbatelier2\include\app_banque.h
+	<iostream>
+	"Compte.h"
+	"CompteEpargne.h"
+	"ComptePayant.h"
+	"Operation.h"
+	"Devise.h"
+	<vector>
+
+1647803072 c:\users\mustapha\desktop\exercicesbatelier2\include\compteepargne.h
+	<iostream>
+	"Compte.h"
+
+1647785850 c:\users\mustapha\desktop\exercicesbatelier2\include\comptepayant.h
+	<iostream>
+
